@@ -57,9 +57,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushant-Dagar&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant-Dagar&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Dagar&layout=compact&theme=radical" alt="Top Languages"/>
+  <a href="https://github.com/Sushant-Dagar"><img src="https://github-readme-stats-tawny-mu-98.vercel.app/api?username=Sushant-Dagar&show_icons=true&theme=radical" alt="GitHub Stats"/></a>
+  <a href="https://github.com/Sushant-Dagar"><img src="https://streak-stats.demolab.com/?user=Sushant-Dagar&theme=radical" alt="GitHub Streak"/></a>
+  <a href="https://github.com/Sushant-Dagar?tab=repositories"><img src="https://github-readme-stats-tawny-mu-98.vercel.app/api/top-langs/?username=Sushant-Dagar&layout=compact&theme=radical" alt="Top Languages"/></a>
 </p>
 
 ---
